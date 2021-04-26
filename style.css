@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    background: linear gradiant(#ffff00 0%, #ff6600 100%)
+}
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: linear gradiant(#ffffff 0%,#000000 100%);
+}
+.container{
+    text-align: center;
+}
+#myCarousel{
+    background-color: linear gradiant(#ff9999 0%, #00e6b8 100%);
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: yellow;
+    background-color: black;
+    font-size: 20px;
+}
